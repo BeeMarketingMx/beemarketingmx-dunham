@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Theme Julia
+  BeeMarketingMx Dunham
 </h1>
 
-See the [live demo](https://gatsby-theme-julia.netlify.com)
+See the [live demo](https://dunham.beemarketing.com.mx)
 
 [GatsbyJS](https://www.gatsbyjs.org/) is a free and open source static website builder build on React. It's one implementation of the [JAMstack](https://jamstack.org/) idea which creates high speed webpages.
 
@@ -30,14 +30,14 @@ To use this theme in your Gatsby sites, follow these instructions:
 
 1.  Install the theme
     ```sh
-    npm install --save gatsby-theme-julia
+    npm install --save beemarketingmx-dunham
     ```
 
 2.  Add the theme to your `gatsby-config.js`:
     ```js
     module.exports = {
       plugins: [
-        'gatsby-theme-julia'
+        'beemarketingmx-dunham'
       ]
     }
     ```
@@ -144,9 +144,3 @@ Looking for more guidance? The perfect place to learn more about GatsbyJS is the
 - **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
 
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
-
-## 💫 Deploy
-
-You can also directly deploy this theme as a GatsbyJS starter via Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/niklasmtj/gatsby-starter-julia)

@@ -5,5 +5,5 @@
  */
 
 module.exports = {
-  plugins: ["gatsby-theme-julia"],
+  plugins: ["beemarketingmx-dunham"],
 }

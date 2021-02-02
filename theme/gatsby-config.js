@@ -2,10 +2,10 @@ const path = require('path');
 
 module.exports = {
   siteMetadata: {
-    title: `Julia Doe`,
-    subtitle: `software developer`,
-    description: `A minimal blog theme built with Gatsbyjs. The needed Gatsby files are included.`,
-    author: `@niklasmtj`,
+    title: `Enrique Martínez`,
+    subtitle: `Arquitecto`,
+    description: `Una página web personal creada por BeemarketingMx`,
+    author: `@beemarketingmx`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -41,13 +41,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-theme-julia`,
-        short_name: `julia`,
+        name: `beemarketingmx-dunham`,
+        short_name: `dunham`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: path.resolve(__dirname, `src/images/gatsby-icon.png`), // This path is relative to the root of the site.
+        icon: path.resolve(__dirname, `src/images/dunham-icon.png`), // This path is relative to the root of the site.
       },
     },
     {

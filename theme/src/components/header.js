@@ -76,9 +76,9 @@ const Header = ({ siteTitle }) => (
   <SiteHeader>
     <Content>
       <p>
-        <HomeLink to="/">{siteTitle}</HomeLink>
+        <HomeLink to="/">Inicio</HomeLink>
         <NavLink to="/blog">Blog</NavLink>
-        <GitHubLink href="https://github.com/niklasmtj/gatsby-theme-julia/tree/master/theme">GitHub</GitHubLink>
+        <GitHubLink href="https://beemarketing.com.mx">Nosotros</GitHubLink>
       </p>
     </Content>
   </SiteHeader>
